@@ -1,2 +1,10 @@
-request == 2.32.4
-pytest == 8.4.0
+black
+flake8
+isort
+loguru
+pip
+pytest
+python-dotenv
+tqdm
+typer
+-e .
